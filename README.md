@@ -1,2 +1,3 @@
 # ada-submissions
-Exemplarisch alte Abgaben in ada
+Abgaben in ada im Rahmen der Vorlesung Embedded Systems
+
